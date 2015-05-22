@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FileTransferChild"
+  DTS:DTSID="{3111E4DD-4730-4F38-9F86-ADF1830DE527}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.\collect;Initial Catalog=SQLVision_FileTransferChild;Provider=SQLNCLI10.1;Integrated Security=SSPI;Application Name=SSIS-File_Transfer_Load_Files-{5b6f804c-3352-43b0-9faf-5c712973ba0c}FileTransferChild;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

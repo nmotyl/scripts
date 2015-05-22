@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Warehouse"
+  DTS:DTSID="{542846A9-8BE4-4F0B-9C08-F0E480622B43}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=LogData;Provider=SQLNCLI10.1;Integrated Security=SSPI;Application Name=SSIS-{542846A9-8BE4-4F0B-9C08-F0E480622B43}Warehouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

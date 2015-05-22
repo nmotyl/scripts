@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ReleaseDB"
+  DTS:DTSID="{4BC92AFC-536C-46D2-ABB2-BE63484AE9AA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WL914823272\COLLECT;Initial Catalog=Vision_Release_Admin;Provider=SQLNCLI10.1;Integrated Security=SSPI;Application Name=SSIS-{4BC92AFC-536C-46D2-ABB2-BE63484AE9AA}ReleaseDB;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
